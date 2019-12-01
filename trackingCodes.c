@@ -12,7 +12,7 @@ int main(void)
 
 void size(int total)
 {
-    int tracker = 0;
+    int tracker = 0.0;
     char type;
     int count = 0;
     int totalSize = 0;
