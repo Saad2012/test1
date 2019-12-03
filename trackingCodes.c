@@ -22,7 +22,7 @@ void size(int total)
     {
         scanf("%d %c", &tracker, &type);
 
-        if (type == 'i')
+        if (type == 'i'
         {
 
             totalSize = totalSize + (sizeof(int) * tracker);
